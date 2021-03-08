@@ -1,0 +1,11 @@
+According to the IMDB website, "Subsets of IMDb data are available for access to customers for personal and non-commercial use. You can hold local copies of this data, and it is subject to our terms and conditions. Please refer to the Non-Commercial Licensing and copyright/license and verify compliance."
+
+Legal issues:
+The policy says, "The data can only be used for personal and non-commercial use and must not be altered/republished/resold/repurposed to create any kind of online/offline database of movie information (except for individual personal use)".
+As we are currently using this data set for only local and non commercial use there are no legal issues as we are under compliance with their policy.
+
+Privacy issues:
+The data is owned by IMDB and is publicly available on their website. Hence there are no privacy issues with us using it.
+
+Ethical issues:
+Ethically this is a very good move by IMDB as they are helping the community of researchers and learners like us to get access to a real life large dataset. This explosion of data and easy access to dataset has been fueling the increasing advancement in big data and machine learning technologies in the last few years. 
